@@ -1,0 +1,12 @@
+{
+  "title": "Certificate of Completion",
+  "event_name": "Full Stack Backend Bootcamp",
+  "issuer_name": "Tech Academy",
+  "issue_date": "2026-10-07",
+  "recipients": [
+    {"name": "Alice Wonderland", "email": "alice@example.com"},
+    {"name": "José Müller", "email": "jose@example.com"},
+    {"name": "   ", "email": "blank@example.com"},
+    {"name": "Bob Builder", "email": "not-an-email"}
+  ]
+}
